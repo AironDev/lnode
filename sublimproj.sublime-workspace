@@ -1,0 +1,744 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pass",
+				"passedData"
+			],
+			[
+				"var",
+				"var_export"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"airon",
+				"airondev"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"co",
+				"command"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"sort",
+				"sorted_array"
+			],
+			[
+				"re",
+				"rev_arrstr"
+			],
+			[
+				"a",
+				"arrstr"
+			],
+			[
+				"ins",
+				"institute_id"
+			],
+			[
+				"ed",
+				"education_schools"
+			],
+			[
+				"edu",
+				"education_fields"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"educ",
+				"education"
+			],
+			[
+				"insti",
+				"institution_id"
+			],
+			[
+				"last",
+				"lastInsertId"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"st",
+				"stmt"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"educa",
+				"education_fields"
+			],
+			[
+				"educt",
+				"education"
+			],
+			[
+				"cou",
+				"countEdu"
+			],
+			[
+				"remo",
+				"removePos"
+			],
+			[
+				"count",
+				"countPos"
+			],
+			[
+				"pro",
+				"profile_update_sql"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"posio",
+				"position"
+			],
+			[
+				"oldP",
+				"oldPosition"
+			],
+			[
+				"inser",
+				"insertPos"
+			],
+			[
+				"inse",
+				"insertPos"
+			],
+			[
+				"va",
+				"validateProfile"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"validate",
+				"validatePos"
+			],
+			[
+				"pos",
+				"position_fields"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"label",
+				"label-for-position"
+			],
+			[
+				"add",
+				"addPos"
+			],
+			[
+				"onc",
+				"onchange\tAttr"
+			],
+			[
+				"porfil",
+				"profile_id"
+			],
+			[
+				"Log",
+				"logic"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"uer",
+				"userId"
+			],
+			[
+				"form",
+				"formPro"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"profile",
+				"profile_id"
+			],
+			[
+				"hea",
+				"headline"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"login",
+				"loginErr"
+			],
+			[
+				"v",
+				"var_dump"
+			],
+			[
+				"session_",
+				"session_name"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"bas",
+				"base64_encode"
+			],
+			[
+				"reset",
+				"resetBVN"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"j",
+				"json_encode"
+			],
+			[
+				"Jso",
+				"json_encode"
+			],
+			[
+				"Book",
+				"Bookmarks"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"nte",
+				"notes"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"lab",
+				"label-for"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Dev/localhost/www/HNG_storm-task/testScripts/ayesha.js",
+			"settings":
+			{
+				"buffer_size": 349,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Dev/localhost/www/hngi7_task2/index.php",
+			"settings":
+			{
+				"buffer_size": 6018,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Dev/localhost/www/socialite/readme.md",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: vue",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dev/localhost/www/lnode",
+		"/C/Dev/localhost/www/lnode/my_modules",
+		"/C/Dev/localhost/www/lnode/routes",
+		"/C/Dev/localhost/www/lnode/views",
+		"/C/Dev/localhost/www/lnode/views/layouts",
+		"/C/Dev/localhost/www/lnode/views/partials"
+	],
+	"file_history":
+	[
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/ayesha.js",
+		"/C/Dev/localhost/www/Team-Incredible/scripts/Abdussami-Giwa.js",
+		"/C/Dev/localhost/www/Team-Incredible/scripts/Clement-Bazuaye.js",
+		"/C/Dev/localhost/www/Team-Incredible/scripts/Ibrahim-Adekunle.js",
+		"/C/Dev/localhost/www/Team-Incredible/scripts/Aniebiet-Aaron.js",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/Pphauziyah.js",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/phauziyah36.js",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/orlan-kay.js",
+		"/C/Users/Airon/Desktop/passed/Aniebiet-Aaron.js",
+		"/C/Dev/localhost/www/Team-Incredible/scripts/Angel-Nagaba.js",
+		"/C/Dev/localhost/www/Team-Incredible/index.php",
+		"/C/Dev/localhost/www/Team-Incredible/README.md",
+		"/C/Users/Airon/Desktop/passed/airon.js",
+		"/C/Dev/localhost/www/lnode/my_modules/test_module.js",
+		"/C/Dev/localhost/www/lnode/package.json",
+		"/C/Dev/localhost/www/lnode/app.js",
+		"/C/Dev/localhost/www/HNG_storm-task/index.php",
+		"/C/Dev/localhost/www/hngi7_task2/index.php",
+		"/C/Users/Airon/Desktop/passed/sample.py",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/ablefield.py",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/lary_script.py",
+		"/C/Dev/localhost/www/HNG_storm-task/scripts/script.js",
+		"/C/Dev/localhost/www/HNG_storm-task/scripts/echo.js",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/airon.js",
+		"/C/Dev/localhost/www/lnode/controllers/users.js",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/sample.py",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/shaqir.php",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/airon_test.js",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/hng.py",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/Chuksy.py",
+		"/C/Users/Airon/Desktop/task2_scripts/airon.js",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/hng task 2.py",
+		"/C/Dev/localhost/www/HNG_storm-task/testScripts/airon1.js",
+		"/C/Users/Airon/Desktop/task2_scripts/airon_test.js",
+		"/C/Dev/localhost/www/HNG_storm-task/scripts/yanmifeakeju.js",
+		"/C/Dev/localhost/www/HNG_storm-task/scripts/airon.js",
+		"/C/Dev/localhost/www/lnode/views/partials/head.ejs",
+		"/C/Dev/localhost/www/HNG_storm-task/scripts/airon_test.js",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/airon_818978787.js",
+		"/C/Dev/localhost/www/HNG_storm-task/README.md",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/esi_87578032.py",
+		"/C/Dev/localhost/www/HNG_storm-task/json.json",
+		"/C/Dev/localhost/www/lnode/views/index.ejs",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/favur_84792540.php",
+		"/C/Dev/localhost/www/hngi7_task2/index2.php",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/john_4389832621.js",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/charley_547898943.js",
+		"/C/Dev/lairnpython/begina/hello_world.py",
+		"/C/Dev/lairnpython/begina/lynda/string_object.py",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/basic.js",
+		"/C/Dev/localhost/www/lnode/views/layouts/master.ejs",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/84792540.php",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/87578032.py",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/basic2.js",
+		"/C/Dev/localhost/www/hngi7_task2/scripts/basic1.js",
+		"/C/Dev/localhost/www/lweb/hngtask2/basic.js",
+		"/C/Dev/localhost/www/lweb/hngtask2/index.php",
+		"/C/Dev/localhost/www/lweb/partials/header.php",
+		"/C/Dev/localhost/www/lnode/views/partials/main_nav.ejs",
+		"/C/Dev/localhost/www/lnode/views/layouts/master",
+		"/C/Dev/localhost/www/lnode/README.md",
+		"/C/Dev/localhost/www/lnode/routes/posts.js",
+		"/C/Dev/localhost/www/lnode/routes/index.js",
+		"/C/Dev/localhost/www/lnode/routes/products.js",
+		"/C/Dev/localhost/www/fblog/app.js",
+		"/C/Dev/localhost/www/fblog/controllers/users.js",
+		"/C/Users/Airon/Downloads/DEV JOB/CAO/Plugins/wordfenceClass.php",
+		"/C/Users/Airon/Downloads/DEV JOB/CAO/options/Checkout_order_recieved.css",
+		"/C/Dev/localhost/www/hngi7_task1/README.txt",
+		"/C/Dev/localhost/www/ljs/basics/basics.js",
+		"/C/Dev/localhost/www/fblog/views/users/list.pug",
+		"/C/Dev/localhost/www/fblog/controllers/addUser.js",
+		"/C/Dev/localhost/www/fblog/views/users/add.pug",
+		"/C/Dev/localhost/www/fblog/models/User.js",
+		"/C/Users/Airon/Desktop/mongod.cfg",
+		"/C/Dev/localhost/www/fblog/tutorial/tutorial.js",
+		"/C/Dev/localhost/www/fblog/package.json",
+		"/C/Users/Airon/AppData/Roaming/npm-cache/anonymous-cli-metrics.json",
+		"/C/Dev/localhost/www/fblog/.ignore",
+		"/C/Dev/localhost/www/fblog/routes/users.js",
+		"/C/Dev/localhost/www/lweb/view.php",
+		"/C/Dev/localhost/www/lweb/add.php",
+		"/C/Users/Airon/Documents/KONAMI/Pro Evolution Soccer 2013/save/EDIT_PesEditorConfig.xml",
+		"/C/Dev/localhost/www/lweb/edit.php",
+		"/C/Dev/localhost/www/ljs/basics.html",
+		"/C/Users/Airon/Downloads/qwiklabs-gcp-04-dc7b18608699-6b948df00bb8.json",
+		"/C/Dev/localhost/www/lweb/assets/js/resume_fields.js",
+		"/C/Dev/localhost/www/lweb/database/insert_into_institution-table.sql",
+		"/C/Dev/localhost/www/lweb/database/create_education-table.sql",
+		"/C/Dev/localhost/www/lweb/database/create_institution-table.sql",
+		"/C/Dev/localhost/www/lweb/school.php",
+		"/C/Dev/localhost/www/lweb/test.php",
+		"/C/Dev/localhost/www/lweb/database/create_position-table.sql",
+		"/C/Dev/localhost/www/lweb/assets/jquery/jquery.js",
+		"/C/Dev/localhost/www/lweb/assets/jquery/jquery.min.js",
+		"/C/Dev/localhost/www/lweb/assets/jquery/jquery-ui-1.12.1/external/jquery/jquery.js",
+		"/C/Dev/localhost/www/lweb/assets/font-icons/font-awesome/css/font-awesome.css",
+		"/C/Dev/localhost/www/lweb/READMe.txt",
+		"/C/Dev/localhost/www/lweb/index.php",
+		"/C/Dev/localhost/www/lweb/edited.php",
+		"/C/Users/Airon/Desktop/edit.php",
+		"/C/Dev/localhost/www/lweb/database/create_users-table.sql",
+		"/C/Dev/localhost/www/lweb/database/connection.php",
+		"/C/Dev/localhost/www/lweb/delete.php",
+		"/C/Dev/localhost/www/lweb/logout.php",
+		"/C/Dev/localhost/www/lweb/login.php",
+		"/C/Dev/localhost/www/lweb/.htaccess",
+		"/C/Users/Airon/Desktop/hosts",
+		"/C/Dev/localhost/bin/apache/conf/httpd_uwamp.conf",
+		"/C/Dev/localhost/www/ljjj/assets/js/validate.js",
+		"/C/Dev/localhost/www/ljjj/view.php",
+		"/C/Dev/localhost/www/ljjj/delete.php",
+		"/C/Dev/localhost/www/ljjj/partials/header.php",
+		"/C/Dev/localhost/www/ljjj/index.php",
+		"/C/Dev/localhost/www/ljs/basics/botman.js",
+		"/C/Dev/localhost/www/ljs/basics/namesearch.js",
+		"/C/Dev/localhost/www/ljjj/login.php",
+		"/C/Dev/localhost/www/ljjj/add.php",
+		"/C/Dev/localhost/www/ljs/basics/calc.js",
+		"/C/Users/Airon/.gitconfig",
+		"/C/Dev/localhost/bin/apache/sessions/sess_rgjcii4ggteurkqupbff7va7ef",
+		"/C/Dev/localhost/bin/apache/sessions/sess_48996ohadi1pnp7ulmmovm9crt",
+		"/C/Dev/localhost/www/ljjj/assets/js/login.js",
+		"/C/Dev/localhost/bin/apache/sessions/sess_qrid7au044g71lsl3b4q04lc0c",
+		"/C/Dev/localhost/www/ljjj/database/insert_users-table.sql",
+		"/C/Dev/localhost/www/ljjj/zeigs/index.php",
+		"/C/Dev/localhost/www/ljjj/database/header.php",
+		"/C/Dev/localhost/www/ljjj/partials/nav.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"delete",
+			"card",
+			"fileinf",
+			"..",
+			".",
+			"http://cao-group.air",
+			"Eval",
+			"Prepen",
+			"Prepend",
+			"listen",
+			"spin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n",
+			"https://caogroups.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Dev/localhost/www/HNG_storm-task/testScripts/ayesha.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Dev/localhost/www/hngi7_task2/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1710,
+								1710
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Dev/localhost/www/socialite/readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublimproj.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 124.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

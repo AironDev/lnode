@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en"> 
+  <head>
+  	<!-- include the head partials -->
+  	<% include ('./partials/head') %>
+  	<!--  hook where  head items can be injected  from the templates -->
+  	 <%- block('head').toString() %>
+  </head>
+
+  <body>
+  	<header>
+  		<%= include ('./partials/main_nav') %>
+  	</header>
+  	<aside>
+  		<!-- hook for additonal aside -->
+  		<%- block('aside').toString() %>
+  	</aside>
+    <main>
+      <%- body -%>
+      <%- block('section').toString() %>
+    </main>
+    <footer>
+    	<%= include ('./partials/head') %>
+    	<!-- hook for more items -->
+    	<%- block('footer').toString() %>
+    </footer>
+  </body>
+</html>
