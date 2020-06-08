@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"co",
+				"controller"
+			],
+			[
 				"json",
 				"json_encode"
 			],
@@ -30,10 +34,6 @@
 			[
 				"jso",
 				"json_decode"
-			],
-			[
-				"co",
-				"command"
 			],
 			[
 				"php",
@@ -320,28 +320,12 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Dev/localhost/www/HNG_storm-task/testScripts/ayesha.js",
+			"file": "views/index.ejs",
 			"settings":
 			{
-				"buffer_size": 349,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Dev/localhost/www/hngi7_task2/index.php",
-			"settings":
-			{
-				"buffer_size": 6018,
+				"buffer_size": 74,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Dev/localhost/www/socialite/readme.md",
-			"settings":
-			{
-				"buffer_size": 20,
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -386,6 +370,7 @@
 	"expanded_folders":
 	[
 		"/C/Dev/localhost/www/lnode",
+		"/C/Dev/localhost/www/lnode/controllers",
 		"/C/Dev/localhost/www/lnode/my_modules",
 		"/C/Dev/localhost/www/lnode/routes",
 		"/C/Dev/localhost/www/lnode/views",
@@ -394,7 +379,14 @@
 	],
 	"file_history":
 	[
+		"/C/Dev/localhost/www/lnode/controllers/homepageController.js",
+		"/C/Dev/localhost/www/lnode/controllers/userController.js",
+		"/C/Dev/localhost/www/lnode/routes/web.js",
+		"/C/Dev/localhost/www/lnode/app.js",
+		"/C/Dev/localhost/www/socialite/readme.md",
 		"/C/Dev/localhost/www/HNG_storm-task/testScripts/ayesha.js",
+		"/C/Dev/localhost/www/hngi7_task2/index.php",
+		"/C/Dev/localhost/www/lnode/controllers/index.js",
 		"/C/Dev/localhost/www/Team-Incredible/scripts/Abdussami-Giwa.js",
 		"/C/Dev/localhost/www/Team-Incredible/scripts/Clement-Bazuaye.js",
 		"/C/Dev/localhost/www/Team-Incredible/scripts/Ibrahim-Adekunle.js",
@@ -409,9 +401,7 @@
 		"/C/Users/Airon/Desktop/passed/airon.js",
 		"/C/Dev/localhost/www/lnode/my_modules/test_module.js",
 		"/C/Dev/localhost/www/lnode/package.json",
-		"/C/Dev/localhost/www/lnode/app.js",
 		"/C/Dev/localhost/www/HNG_storm-task/index.php",
-		"/C/Dev/localhost/www/hngi7_task2/index.php",
 		"/C/Users/Airon/Desktop/passed/sample.py",
 		"/C/Dev/localhost/www/HNG_storm-task/testScripts/ablefield.py",
 		"/C/Dev/localhost/www/HNG_storm-task/testScripts/lary_script.py",
@@ -516,12 +506,7 @@
 		"/C/Users/Airon/.gitconfig",
 		"/C/Dev/localhost/bin/apache/sessions/sess_rgjcii4ggteurkqupbff7va7ef",
 		"/C/Dev/localhost/bin/apache/sessions/sess_48996ohadi1pnp7ulmmovm9crt",
-		"/C/Dev/localhost/www/ljjj/assets/js/login.js",
-		"/C/Dev/localhost/bin/apache/sessions/sess_qrid7au044g71lsl3b4q04lc0c",
-		"/C/Dev/localhost/www/ljjj/database/insert_users-table.sql",
-		"/C/Dev/localhost/www/ljjj/zeigs/index.php",
-		"/C/Dev/localhost/www/ljjj/database/header.php",
-		"/C/Dev/localhost/www/ljjj/partials/nav.php"
+		"/C/Dev/localhost/www/ljjj/assets/js/login.js"
 	],
 	"find":
 	{
@@ -569,16 +554,16 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Dev/localhost/www/HNG_storm-task/testScripts/ayesha.js",
+					"file": "views/index.ejs",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 349,
+						"buffer_size": 74,
 						"regions":
 						{
 						},
@@ -591,63 +576,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Dev/localhost/www/hngi7_task2/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6018,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1710,
-								1710
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 255.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Dev/localhost/www/socialite/readme.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -736,7 +665,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 124.0,
+	"side_bar_width": 139.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

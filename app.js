@@ -8,6 +8,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 // Require file system module
 const fs = require('file-system');
+const engine = require('ejs-mate');
 
 
 
@@ -26,19 +27,25 @@ process.exit(1);
 /*
     |||  I can choose to use controller method to handle request and response circle  |||
 */
+// Include controllers
+// fs.readdirSync('controllers').forEach(function (file) {
+//   if(file.substr(-3) == '.js') {
+//   const route = require('./controllers/' + file)
+//   route.controller(app)}
+// })
 
 
 // Include models
-fs.readdirSync('models').forEach(function (file) {
-	if(file.substr(-3) == '.js') {
-      file = require('./models/' + file)
-	}
-})
+// fs.readdirSync('models').forEach(function (file) {
+// 	if(file.substr(-3) == '.js') {
+//       file = require('./models/' + file)
+// 	}
+// })
 
 /*
     |||  I'll use route method to handle request and response circle  |||
 */
-// setup app routes
+//setup app routes
 fs.readdirSync('./routes/').forEach(file => {
   if(file.substr(-3) == '.js') {
     // len = file.length;
@@ -48,9 +55,11 @@ fs.readdirSync('./routes/').forEach(file => {
   }
 })
 
-// view engine setup
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'ejs');
+// use ejs-locals for all ejs templates:
+app.engine('ejs', engine);
+app.set('views',__dirname + '/views');
+app.set('view engine', 'ejs'); // so you can render('index')
+
 
 app.use(logger('dev'));
 app.use(express.json());
